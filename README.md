@@ -125,3 +125,5 @@ Contributions are welcome. If you:
 * or extend this predictor to deploy as a web app,
 
 please open an issue or submit a pull request.
+
+## by Adarsh Thakur
