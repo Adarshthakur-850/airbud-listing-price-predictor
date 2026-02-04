@@ -2,7 +2,7 @@
 
 A machine learning project for predicting Airbnb listing prices using historical listing data and regression modeling. This repository contains code, data processing, model training, evaluation, and utilities to build a predictive pricing model.
 
-## 🚀 Project Overview
+## 🚀 Project Overview  by
 
 Price optimization is a key challenge for Airbnb hosts — setting a price too high may reduce bookings, while a price too low may reduce revenue. This project uses machine learning to estimate optimal listing prices based on property attributes such as location, number of rooms, amenities, and review statistics.
 
