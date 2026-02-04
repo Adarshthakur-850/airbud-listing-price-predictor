@@ -126,4 +126,3 @@ Contributions are welcome. If you:
 
 please open an issue or submit a pull request.
 
-## by Adarsh Thakur
